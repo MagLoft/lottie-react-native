@@ -38,6 +38,7 @@ npm-debug.log
 Pods/
 build/
 lib/
+lottie-react-native.tgz
 
 # BUCK
 buck-out/
